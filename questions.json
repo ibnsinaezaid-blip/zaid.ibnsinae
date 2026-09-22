@@ -1,0 +1,110 @@
+{
+  "plomberie": [
+    "Comment demander une recherche et une réparation de fuite d’eau {lieu} ?",
+    "Quel est le prix d’un plombier pour un dépannage {lieu} ?",
+    "Le débouchage des canalisations et des WC est-il proposé {lieu} ?",
+    "Peut-on remplacer uniquement le mécanisme de chasse d’eau {lieu} ?",
+    "Quelles informations fournir pour installer un lavabo ou un évier {lieu} ?",
+    "Un plombier peut-il étudier les raccordements d’une cuisine {lieu} ?",
+    "Comment organiser une intervention de plomberie en copropriété {lieu} ?",
+    "Les pièces de robinetterie sont-elles incluses dans le devis {lieu} ?",
+    "Quels accès faut-il prévoir pour examiner une évacuation {lieu} ?",
+    "Comment faire évaluer plusieurs travaux de plomberie dans un même logement {lieu} ?"
+  ],
+  "electricite": [
+    "Comment demander un dépannage à un électricien {lieu} ?",
+    "Quel est le prix d’une réparation électrique {lieu} ?",
+    "Peut-on faire ajouter des prises et des interrupteurs {lieu} ?",
+    "Comment préparer un projet d’éclairage intérieur {lieu} ?",
+    "Un professionnel peut-il examiner les protections du tableau électrique {lieu} ?",
+    "Que doit préciser un devis de rénovation électrique {lieu} ?",
+    "Comment planifier les travaux électriques dans un local occupé {lieu} ?",
+    "La pose des luminaires fournis par le client peut-elle être étudiée {lieu} ?",
+    "Comment faire évaluer l’alimentation d’un nouvel équipement {lieu} ?",
+    "Quelles contraintes d’accès indiquer pour une intervention électrique en immeuble {lieu} ?"
+  ],
+  "climatisation": [
+    "Quel est le prix d’une installation de climatiseur {lieu} ?",
+    "Que comprend un devis d’installation de climatisation {lieu} ?",
+    "Comment demander une réparation de climatiseur {lieu} ?",
+    "Comment demander l’entretien d’un climatiseur {lieu} ?",
+    "Quelles informations communiquer en cas d’écoulement d’eau du climatiseur {lieu} ?",
+    "L’installation d’un système multisplit peut-elle être étudiée {lieu} ?",
+    "Comment faire examiner l’emplacement de l’unité extérieure {lieu} ?",
+    "Quelles autorisations vérifier avant une pose en copropriété {lieu} ?",
+    "Peut-on déplacer un climatiseur existant {lieu} ?",
+    "Comment organiser l’entretien de plusieurs climatiseurs professionnels {lieu} ?"
+  ],
+  "vitrerie": [
+    "Comment demander le remplacement d’une vitre cassée à un vitrier {lieu} ?",
+    "Quel est le prix d’un remplacement de vitrage {lieu} ?",
+    "Le remplacement par du double vitrage peut-il être étudié {lieu} ?",
+    "Peut-on commander la pose d’un miroir sur mesure {lieu} ?",
+    "Quelles informations fournir pour installer une paroi de douche {lieu} ?",
+    "Comment préparer le remplacement d’une vitrine commerciale {lieu} ?",
+    "Les joints d’un vitrage peuvent-ils être remplacés {lieu} ?",
+    "Quel délai prévoir pour un vitrage fabriqué sur mesure {lieu} ?",
+    "Comment organiser la prise de mesures dans un immeuble {lieu} ?",
+    "Que doit détailler un devis de fourniture et de pose de vitrage {lieu} ?"
+  ],
+  "serrurerie": [
+    "Quel est le prix d’un serrurier pour remplacer une serrure {lieu} ?",
+    "Peut-on remplacer seulement le cylindre d’une porte {lieu} ?",
+    "Comment demander un devis de réparation de serrure {lieu} ?",
+    "Comment faire examiner une porte qui ferme difficilement {lieu} ?",
+    "La pose d’un verrou complémentaire peut-elle être étudiée {lieu} ?",
+    "Les poignées et accessoires de fermeture peuvent-ils être remplacés {lieu} ?",
+    "Que comprend un devis de réparation de serrurerie {lieu} ?",
+    "Comment organiser des travaux sur une porte de copropriété {lieu} ?",
+    "Quels critères vérifier pour une serrure de local commercial {lieu} ?",
+    "Comment préparer une demande pour plusieurs portes d’un même bien {lieu} ?"
+  ],
+  "volets-roulants": [
+    "Comment demander une réparation de volet roulant bloqué {lieu} ?",
+    "La motorisation d’un volet manuel est-elle envisageable {lieu} ?",
+    "Peut-on remplacer uniquement le moteur d’un volet {lieu} ?",
+    "Quel est le prix d’une installation de volet roulant {lieu} ?",
+    "Des lames abîmées peuvent-elles être remplacées séparément {lieu} ?",
+    "Comment faire réparer une sangle ou une manivelle {lieu} ?",
+    "Les commandes et télécommandes peuvent-elles être remplacées {lieu} ?",
+    "Que doit inclure un devis de pose de volet roulant {lieu} ?",
+    "Comment vérifier l’accès au coffre avant un rendez-vous {lieu} ?",
+    "Peut-on regrouper la remise en état de plusieurs volets {lieu} ?"
+  ],
+  "aluminium": [
+    "Quel est le prix d’une installation de fenêtres aluminium {lieu} ?",
+    "Quelles mesures sont nécessaires pour une baie coulissante {lieu} ?",
+    "Peut-on faire remplacer les roulettes d’une menuiserie coulissante {lieu} ?",
+    "Comment demander une réparation de fenêtre aluminium {lieu} ?",
+    "Le remplacement des joints d’étanchéité peut-il être étudié {lieu} ?",
+    "Quels choix de vitrage et de finition préciser pour un devis {lieu} ?",
+    "Peut-on conserver le cadre lors du remplacement d’une ouverture {lieu} ?",
+    "Comment organiser la pose de menuiseries dans un appartement occupé {lieu} ?",
+    "Une cloison en aluminium sur mesure peut-elle être étudiée {lieu} ?",
+    "Quel délai anticiper pour la fabrication et la pose de menuiseries {lieu} ?"
+  ],
+  "chauffage": [
+    "Comment demander un devis d’installation de chauffage {lieu} ?",
+    "Quel est le prix d’un dépannage de chauffage {lieu} ?",
+    "Peut-on demander la pose ou le remplacement d’un radiateur {lieu} ?",
+    "Comment vérifier la compatibilité d’un thermostat avec l’équipement {lieu} ?",
+    "Que doit préciser un devis d’installation de chauffage {lieu} ?",
+    "Comment programmer l’entretien d’un équipement de chauffage {lieu} ?",
+    "Le remplacement de pièces dépend-il du modèle de l’appareil {lieu} ?",
+    "Comment préparer une rénovation du chauffage dans un logement occupé {lieu} ?",
+    "Quels accès et contraintes signaler avant le rendez-vous {lieu} ?",
+    "Peut-on étudier le chauffage de plusieurs pièces dans une même demande {lieu} ?"
+  ],
+  "marbre": [
+    "Quel est le prix de la pose de marbre {lieu} ?",
+    "Comment demander un devis de cristallisation de marbre {lieu} ?",
+    "Quelle différence prévoir entre ponçage, polissage et cristallisation {lieu} ?",
+    "Quelles informations fournir pour rénover un sol en marbre {lieu} ?",
+    "Le traitement des taches peut-il être étudié {lieu} ?",
+    "Des joints ou de petits éclats peuvent-ils être réparés {lieu} ?",
+    "Comment organiser les travaux dans un logement meublé {lieu} ?",
+    "La rénovation d’un escalier en marbre peut-elle être étudiée {lieu} ?",
+    "Quels éléments influencent le délai d’intervention sur le marbre {lieu} ?",
+    "Comment définir la finition souhaitée avant la rénovation {lieu} ?"
+  ]
+}

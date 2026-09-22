@@ -1,0 +1,291 @@
+{
+  "cities": [
+    {
+      "name": "Casablanca",
+      "slug": "casablanca",
+      "zones": [
+        "Ain Diab",
+        "Maarif",
+        "Bourgogne",
+        "Racine",
+        "Gauthier",
+        "Oasis",
+        "Californie",
+        "Sidi Maarouf",
+        "Ain Sebaâ",
+        "Hay Mohammadi",
+        "Sidi Bernoussi",
+        "Roches Noires",
+        "Belvédère",
+        "Derb Sultan",
+        "Al Fida",
+        "Mers Sultan",
+        "Hay Hassani",
+        "Oulfa",
+        "Lissasfa",
+        "Sbata",
+        "Sidi Othmane",
+        "Moulay Rachid"
+      ],
+      "intro": "De Ain Diab à Sidi Bernoussi, retrouvez les métiers de REPAREO dans les quartiers de Casablanca. Pour organiser une intervention, précisez le quartier, l’étage et les conditions d’accès au logement ou au local."
+    },
+    {
+      "name": "Périphérie Casablanca",
+      "slug": "peripherie-casablanca",
+      "zones": [
+        "Dar Bouazza",
+        "Errahma",
+        "Bouskoura",
+        "Ville Verte",
+        "Nouaceur",
+        "Médiouna",
+        "Tit Mellil",
+        "Lahraouiyine"
+      ],
+      "intro": "Dar Bouazza, Bouskoura, Nouaceur ou Médiouna : sélectionnez votre commune pour préparer votre projet. Une adresse précise et un point de repère permettent de confirmer le déplacement et son organisation."
+    },
+    {
+      "name": "Mohammedia",
+      "slug": "mohammedia",
+      "zones": [
+        "Centre-ville",
+        "Parc",
+        "Al Alia",
+        "El Hassania",
+        "Rachidia",
+        "Wafa",
+        "Nasim",
+        "La Colline",
+        "Les Crêtes",
+        "Quartier des Plages",
+        "Mannesmann",
+        "Monica",
+        "Miramar",
+        "Sablettes",
+        "El Mansouria",
+        "Charrat",
+        "Beni Yakhlef",
+        "Chellalate",
+        "Zenata",
+        "Aïn Harrouda",
+        "Secteur industriel de Mohammedia"
+      ],
+      "intro": "Notre secteur de Mohammedia regroupe les quartiers de la ville et les localités environnantes indiquées ci-dessous. Pour un commerce ou un site industriel, indiquez les horaires d’accès et les contraintes du site avant toute planification."
+    },
+    {
+      "name": "El Jadida",
+      "slug": "el-jadida",
+      "zones": [
+        "Centre-ville",
+        "Cité Portugaise",
+        "Plateau",
+        "Essaada",
+        "Al Qods",
+        "Al Matar",
+        "Al Manar",
+        "Najd",
+        "Salam",
+        "Hay Essalam",
+        "Hay Al Amal",
+        "Hay Al Matar",
+        "Hay Al Farah",
+        "Hay Al Massira",
+        "Hay Al Moustakbal",
+        "Sidi Bouzid",
+        "Moulay Abdellah",
+        "Azemmour",
+        "Haouzia",
+        "Secteur industriel d’El Jadida"
+      ],
+      "intro": "À El Jadida et dans le secteur de Sidi Bouzid, Azemmour ou Haouzia, préparez votre besoin d’installation ou de réparation. Précisez la localité exacte : les conditions de déplacement et la disponibilité sont à confirmer pour chaque demande."
+    },
+    {
+      "name": "Rabat",
+      "slug": "rabat",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Rabat ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Salé",
+      "slug": "sale",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Salé ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Tanger",
+      "slug": "tanger",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Tanger ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Marrakech",
+      "slug": "marrakech",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Marrakech ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Fès",
+      "slug": "fes",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Fès ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Meknès",
+      "slug": "meknes",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Meknès ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Agadir",
+      "slug": "agadir",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Agadir ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Kénitra",
+      "slug": "kenitra",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Kénitra ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Tétouan",
+      "slug": "tetouan",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Tétouan ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    },
+    {
+      "name": "Oujda",
+      "slug": "oujda",
+      "zones": [],
+      "intro": "Vous préparez des travaux à Oujda ? Consultez les prestations puis contactez REPAREO pour vérifier la disponibilité à votre adresse. Le déplacement, le devis et le créneau restent à confirmer."
+    }
+  ],
+  "services": [
+    {
+      "slug": "plomberie",
+      "name": "Plomberie",
+      "trade": "Plombier",
+      "short": "Robinetterie, sanitaires et canalisations.",
+      "intro": "Une fuite, un équipement à remplacer ou une salle d’eau à aménager ? REPAREO prend en charge vos besoins de plomberie, du diagnostic à la pose.",
+      "install": "Installation de plomberie",
+      "install_text": "Pose de robinets, éviers, lavabos, WC et raccordements sanitaires. Le projet tient compte des arrivées d’eau, de l’évacuation et de l’accessibilité des équipements.",
+      "repair": "Réparation de plomberie",
+      "repair_text": "Recherche de l’origine d’une fuite, remplacement d’éléments défectueux et remise en état des équipements sanitaires après diagnostic.",
+      "prepare": "Type d’équipement, emplacement de la fuite, ancienneté et photos prises à distance.",
+      "q": "Un remplacement est-il toujours nécessaire ?",
+      "a": "Pas systématiquement. Le diagnostic permet de distinguer une pièce remplaçable d’un équipement dont le remplacement complet est préférable."
+    },
+    {
+      "slug": "electricite",
+      "name": "Électricité",
+      "trade": "Électricien",
+      "short": "Éclairage, prises et installations électriques.",
+      "intro": "Un projet d’éclairage ou une installation qui présente un défaut ? Faites évaluer votre besoin par un professionnel avant toute modification électrique.",
+      "install": "Installation électrique",
+      "install_text": "Installation de points lumineux, prises et équipements adaptés au projet. L’état de l’existant et les besoins du logement sont examinés avant la proposition.",
+      "repair": "Réparation électrique",
+      "repair_text": "Diagnostic des défauts de fonctionnement et remplacement des éléments identifiés par le professionnel. Aucun diagnostic à distance ne remplace le contrôle sur place.",
+      "prepare": "Équipements concernés, fréquence du défaut et références disponibles, sans ouvrir le tableau.",
+      "q": "Pouvez-vous intervenir pour une rénovation ?",
+      "a": "La rénovation peut être étudiée après examen de l’installation et définition des équipements à alimenter. Le périmètre des travaux est précisé avant intervention."
+    },
+    {
+      "slug": "climatisation",
+      "name": "Climatisation",
+      "trade": "Climatisation",
+      "short": "Installation, réparation et entretien de climatiseurs.",
+      "intro": "Un climatiseur adapté à votre pièce et une installation étudiée font la différence. REPAREO accompagne la pose, le diagnostic et la remise en état de votre climatisation.",
+      "install": "Installation de climatiseur",
+      "install_text": "Étude de l’emplacement, des besoins de la pièce et des contraintes de pose. La puissance et la configuration sont à valider avant le choix définitif de l’appareil.",
+      "repair": "Réparation de climatiseur",
+      "repair_text": "Évaluation des problèmes de refroidissement, d’écoulement ou de bruit. Le professionnel identifie la cause et les pièces nécessaires avant de proposer la réparation.",
+      "prepare": "Marque, modèle, surface de la pièce, symptôme constaté et accessibilité des unités.",
+      "q": "Quel climatiseur choisir pour ma pièce ?",
+      "a": "Le choix dépend notamment du volume, de l’exposition et de l’isolation. Une évaluation permet de choisir un équipement adapté sans se limiter à la surface."
+    },
+    {
+      "slug": "vitrerie",
+      "name": "Vitrerie",
+      "trade": "Vitrier",
+      "short": "Vitrages, fenêtres et parois vitrées.",
+      "intro": "Remplacer un vitrage ou aménager une paroi demande des mesures précises. REPAREO étudie les dimensions, le support et l’usage pour proposer la solution appropriée.",
+      "install": "Installation de vitrage",
+      "install_text": "Pose de vitrages et de parois selon les dimensions relevées et les contraintes du support. Le type de verre est défini selon l’utilisation et l’emplacement.",
+      "repair": "Réparation et remplacement de vitrage",
+      "repair_text": "Évaluation du vitrage endommagé, prise de mesures et remplacement lorsque nécessaire. Le devis distingue le vitrage, les accessoires et la pose.",
+      "prepare": "Dimensions approximatives, type de support et photo d’ensemble prise sans toucher le verre endommagé.",
+      "q": "Les mesures à distance suffisent-elles ?",
+      "a": "Des dimensions approximatives facilitent le premier échange. Les mesures définitives doivent être validées avant fabrication ou commande."
+    },
+    {
+      "slug": "serrurerie",
+      "name": "Serrurerie",
+      "trade": "Serrurier",
+      "short": "Serrures, cylindres et fermetures de portes.",
+      "intro": "Une serrure usée ou une fermeture difficile mérite un diagnostic précis. REPAREO étudie la compatibilité de la porte et des éléments à remplacer.",
+      "install": "Installation de serrure",
+      "install_text": "Pose de serrures, cylindres et accessoires compatibles avec votre porte. Le choix prend en compte l’usage, les dimensions et le niveau de protection recherché.",
+      "repair": "Réparation de serrure",
+      "repair_text": "Examen d’une fermeture défectueuse, d’un jeu anormal ou d’un mécanisme usé. Une réparation ou un remplacement est proposé selon l’état du matériel.",
+      "prepare": "Type de porte, référence visible de la serrure et description du problème, sans forcer le mécanisme.",
+      "q": "Faut-il remplacer toute la serrure ?",
+      "a": "Selon le défaut, le remplacement peut concerner le cylindre, un accessoire ou le mécanisme complet. Le contrôle de compatibilité précède toute proposition."
+    },
+    {
+      "slug": "volets-roulants",
+      "name": "Volets roulants",
+      "trade": "Volets roulants",
+      "short": "Volets manuels, motorisés et mécanismes.",
+      "intro": "Un volet bloqué, bruyant ou un projet de motorisation ? REPAREO examine le tablier, les commandes et les contraintes de pose pour définir l’intervention.",
+      "install": "Installation de volet roulant",
+      "install_text": "Pose de volets roulants et étude de motorisation selon les ouvertures, le coffre disponible et les conditions d’alimentation.",
+      "repair": "Réparation de volet roulant",
+      "repair_text": "Diagnostic des blocages, défauts de commande ou éléments usés. Les pièces à remplacer sont déterminées après inspection de l’ensemble.",
+      "prepare": "Dimensions de l’ouverture, commande manuelle ou motorisée et comportement du volet.",
+      "q": "Peut-on motoriser un volet existant ?",
+      "a": "Cela dépend de l’état du volet, de ses dimensions et du mécanisme. Une vérification permet de confirmer la faisabilité et le matériel compatible."
+    },
+    {
+      "slug": "aluminium",
+      "name": "Aluminium",
+      "trade": "Menuiserie aluminium",
+      "short": "Fenêtres, portes et baies en aluminium.",
+      "intro": "Pour une ouverture neuve ou une menuiserie à remettre en état, REPAREO étudie les dimensions, les profils et les accessoires nécessaires à votre projet.",
+      "install": "Installation de menuiserie aluminium",
+      "install_text": "Pose de fenêtres, portes et baies selon des mesures validées. Les choix de vitrage, de finition et de système d’ouverture sont définis avec le projet.",
+      "repair": "Réparation de menuiserie aluminium",
+      "repair_text": "Examen des problèmes de coulissement, fermeture ou étanchéité. Remplacement d’accessoires compatibles et réglage après diagnostic.",
+      "prepare": "Dimensions approximatives, type d’ouverture, finition souhaitée et défaut éventuel.",
+      "q": "Peut-on conserver le cadre existant ?",
+      "a": "La possibilité de conserver le cadre dépend de son état, de sa fixation et de la compatibilité des nouveaux éléments. Elle doit être évaluée sur place."
+    },
+    {
+      "slug": "chauffage",
+      "name": "Chauffage",
+      "trade": "Chauffage",
+      "short": "Équipements de chauffage et radiateurs.",
+      "intro": "Une pièce insuffisamment chauffée ou un équipement à remplacer ? REPAREO étudie votre installation et votre usage avant de proposer une intervention.",
+      "install": "Installation de chauffage",
+      "install_text": "Étude et pose d’équipements de chauffage selon le type d’appareil, l’espace à chauffer et les contraintes du logement.",
+      "repair": "Réparation de chauffage",
+      "repair_text": "Diagnostic d’un défaut de fonctionnement et examen des composants concernés par un professionnel. La solution dépend de l’appareil et de la disponibilité des pièces.",
+      "prepare": "Type d’énergie, marque, modèle et description du défaut, sans démonter l’appareil.",
+      "q": "Le devis dépend-il du type de chauffage ?",
+      "a": "Oui. La technologie, les raccordements, l’état de l’existant et l’accès à l’appareil influencent le périmètre de l’intervention."
+    },
+    {
+      "slug": "marbre",
+      "name": "Marbre",
+      "trade": "Pose et cristallisation de marbre",
+      "short": "Pose, rénovation et éclat des sols en marbre.",
+      "intro": "Un sol en marbre demande un traitement adapté à sa pierre et à son état. REPAREO accompagne la pose et la rénovation pour retrouver une finition homogène.",
+      "install": "Installation et pose de marbre",
+      "install_text": "Préparation du projet de pose selon le support, les dimensions, le calepinage et la finition souhaitée. L’état du support doit être vérifié avant les travaux.",
+      "repair": "Rénovation et cristallisation de marbre",
+      "repair_text": "Évaluation de l’usure, des taches et de la finition. Selon la pierre, une remise en état et une cristallisation peuvent être proposées ; tous les revêtements ne s’y prêtent pas.",
+      "prepare": "Surface approximative, photos du sol, type de pierre si connu et résultat souhaité.",
+      "q": "La cristallisation convient-elle à tous les sols ?",
+      "a": "Non. La nature de la pierre et son état doivent être identifiés. Le professionnel confirme le traitement adapté avant toute application."
+    }
+  ]
+}

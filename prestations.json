@@ -1,0 +1,65 @@
+{
+  "plomberie": {"heading":"Nos prestations de plomberie", "items":[
+    ["Recherche & réparation de fuite d’eau","Identification de l’origine des fuites sur les raccordements, robinets et canalisations, puis réparation adaptée au diagnostic."],
+    ["Débouchage de canalisations & WC","Prise en charge des évacuations bouchées : WC, éviers, lavabos et douches, après évaluation de l’obstruction."],
+    ["Installation de sanitaires & chasse d’eau","Pose et remplacement de WC, lavabos et équipements sanitaires ; réparation ou remplacement des mécanismes de chasse d’eau."],
+    ["Pose & remplacement de robinetterie","Installation de robinets, mitigeurs et accessoires compatibles avec vos équipements et raccordements."],
+    ["Réparation des évacuations & siphons","Remise en état des siphons, joints et éléments d’évacuation présentant une fuite ou un défaut de fonctionnement."],
+    ["Raccordements de cuisine & salle de bains","Création ou adaptation des raccordements d’eau et d’évacuation pour un aménagement ou une rénovation."]]},
+  "electricite": {"heading":"Nos prestations d’électricité", "items":[
+    ["Diagnostic & dépannage électrique","Recherche des causes de coupures, déclenchements ou défauts de fonctionnement par un professionnel."],
+    ["Installation de prises & interrupteurs","Pose, remplacement et adaptation des points de commande et d’alimentation selon les besoins du logement."],
+    ["Installation de luminaires & éclairage","Pose de luminaires, appliques et solutions d’éclairage adaptées à vos pièces et à vos usages."],
+    ["Tableaux électriques & protections","Examen du tableau et remplacement des éléments de protection identifiés comme défectueux ou inadaptés après évaluation."],
+    ["Rénovation d’installation électrique","Étude et réalisation de travaux sur l’installation existante selon son état et le périmètre convenu."],
+    ["Raccordement d’équipements électriques","Préparation des alimentations et raccordement professionnel d’équipements selon leurs caractéristiques."]]},
+  "climatisation": {"heading":"Nos prestations de climatisation", "items":[
+    ["Installation de climatiseur split & multisplit","Étude des emplacements et pose des unités selon la configuration des pièces et les contraintes techniques."],
+    ["Diagnostic & réparation de climatiseur","Recherche de l’origine d’un manque de refroidissement, d’un arrêt ou d’un fonctionnement irrégulier."],
+    ["Entretien & nettoyage de climatisation","Entretien des éléments accessibles au professionnel et nettoyage adapté à l’appareil et à son état."],
+    ["Écoulement d’eau & évacuation des condensats","Diagnostic des fuites d’eau et des défauts d’évacuation, puis remise en état des éléments concernés."],
+    ["Remplacement de pièces & commandes","Remplacement des composants ou commandes défectueux après contrôle de leur compatibilité et disponibilité."],
+    ["Remplacement & déplacement de climatiseur","Étude de dépose, de remplacement ou de déplacement d’un appareil avec vérification des nouvelles conditions de pose."]]},
+  "vitrerie": {"heading":"Nos prestations de vitrerie", "items":[
+    ["Remplacement de vitre endommagée","Relevé des dimensions et remplacement du vitrage adapté à la menuiserie et à son utilisation."],
+    ["Installation de simple & double vitrage","Pose de vitrages selon les caractéristiques du support et les besoins du projet."],
+    ["Pose de miroirs sur mesure","Étude des dimensions, de la finition et du mode de fixation pour les miroirs de votre intérieur."],
+    ["Installation de parois de douche","Pose de parois vitrées après vérification des mesures, des supports et de la configuration de la salle d’eau."],
+    ["Vitrines & cloisons vitrées","Étude et pose de vitrages pour séparer les espaces ou aménager une vitrine professionnelle."],
+    ["Joints & étanchéité des vitrages","Examen des joints et remplacement des éléments dégradés lorsque le support permet la remise en état."]]},
+  "serrurerie": {"heading":"Nos prestations de serrurerie", "items":[
+    ["Installation & remplacement de serrure","Pose de serrures compatibles avec le type de porte, son usage et les dimensions existantes."],
+    ["Remplacement de cylindre","Remplacement du cylindre après vérification de ses dimensions et de sa compatibilité avec la serrure."],
+    ["Réparation de serrure défectueuse","Diagnostic d’un mécanisme usé ou difficile à manœuvrer, puis réparation ou remplacement des pièces concernées."],
+    ["Réglage de porte & de gâche","Examen des défauts d’alignement et réglage des éléments de fermeture lorsque leur état le permet."],
+    ["Installation de verrous complémentaires","Étude et pose de dispositifs de fermeture supplémentaires adaptés à la porte et au support."],
+    ["Poignées & accessoires de fermeture","Pose ou remplacement de poignées, garnitures et accessoires compatibles avec votre porte."]]},
+  "volets-roulants": {"heading":"Nos prestations pour volets roulants", "items":[
+    ["Installation de volet roulant","Pose de volets manuels ou motorisés selon les dimensions de l’ouverture et les contraintes du coffre."],
+    ["Réparation de volet bloqué","Diagnostic du blocage et remise en état du mécanisme, du tablier ou des éléments concernés."],
+    ["Motorisation de volet existant","Étude de faisabilité et adaptation de la motorisation à l’état, au poids et aux dimensions du volet."],
+    ["Remplacement de moteur & commandes","Remplacement des moteurs ou commandes défectueux après contrôle de leur compatibilité."],
+    ["Remplacement de lames & tablier","Remplacement des éléments abîmés ou du tablier complet selon son état et les pièces disponibles."],
+    ["Sangles, manivelles & mécanismes","Réparation ou remplacement des accessoires de manœuvre et réglage du fonctionnement."]]},
+  "aluminium": {"heading":"Nos prestations de menuiserie aluminium", "items":[
+    ["Installation de fenêtres aluminium","Prise de mesures et pose de fenêtres selon le système d’ouverture, le vitrage et la finition choisis."],
+    ["Pose de portes & baies coulissantes","Installation de portes et baies en aluminium adaptées aux dimensions et aux contraintes du projet."],
+    ["Réparation de coulissants & roulettes","Diagnostic des difficultés de coulissement et remplacement des accessoires compatibles."],
+    ["Réglage de fermetures & poignées","Réglage des ouvrants et remplacement des éléments de manœuvre défectueux."],
+    ["Remplacement de joints d’étanchéité","Examen des joints existants et remplacement des éléments usés selon les profils de menuiserie."],
+    ["Cloisons & ensembles sur mesure","Étude d’ensembles en aluminium à partir des dimensions, de l’usage et des finitions recherchées."]]},
+  "chauffage": {"heading":"Nos prestations de chauffage", "items":[
+    ["Installation d’équipements de chauffage","Étude et pose d’appareils adaptés aux besoins des pièces et aux caractéristiques de l’installation."],
+    ["Diagnostic & réparation de chauffage","Recherche de l’origine d’un défaut de chauffe ou de fonctionnement par un professionnel."],
+    ["Pose & remplacement de radiateurs","Remplacement ou installation de radiateurs selon leur technologie et les raccordements disponibles."],
+    ["Thermostats & régulation","Pose ou remplacement de commandes et thermostats compatibles avec l’équipement."],
+    ["Entretien des équipements","Contrôle et entretien adaptés au type d’appareil, à son état et aux recommandations du fabricant."],
+    ["Rénovation d’installation de chauffage","Évaluation de l’existant et définition des équipements ou éléments à remplacer pour votre projet."]]},
+  "marbre": {"heading":"Nos prestations pour le marbre", "items":[
+    ["Installation & pose de marbre","Étude du support, des dimensions et du calepinage avant la pose du revêtement."],
+    ["Cristallisation de marbre","Traitement professionnel destiné à raviver la finition lorsque la nature de la pierre et son état le permettent."],
+    ["Ponçage & polissage de marbre","Remise en état de la surface et travail de finition adaptés à l’usure et à l’épaisseur disponible."],
+    ["Nettoyage & traitement des taches","Identification de la pierre et des salissures avant le choix d’un traitement compatible."],
+    ["Réparation de joints & petits éclats","Évaluation des défauts et réparation localisée lorsque l’état du revêtement le permet."],
+    ["Rénovation de sols & escaliers en marbre","Étude de rénovation pour harmoniser l’aspect des surfaces et définir la finition recherchée."]]}
+}
